@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\mknn7\desktop\授業・課題\dx22\0_direct3d_ver.3\texture.h(19): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'TextureIndex' の左辺を無視します。
+  GameProject.vcxproj -> C:\Users\mknn7\Desktop\授業・課題\DX22\0_Direct3D_ver.3\Debug\GameProject.exe
